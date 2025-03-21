@@ -6,7 +6,7 @@
 Um Site que tem 1 página inicial e outros 3 botões, 1 deles guiando até meu GitHub, outro é falando sobre a minha pessoa e a outra é sobre meu currículo.
 Resumindo, são 3 páginas e todas com botões para voltar a página principal e tendo opção de baixar o meu currículo. 
 
-Link para ver o site: https://portfolio-puce-three.vercel.app
+Link para ver o site: https://portfolio-git-main-miguel-amores-projects.vercel.app
 
 
 ## 💻 Tecnologias Usadas.
